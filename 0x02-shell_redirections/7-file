@@ -1,3 +1,2 @@
 #!/bin/bash
 echo -e "Best School\n" > $(printf '%q' "*\\''\"Best School\"\\''*\$?********:):)")
-
