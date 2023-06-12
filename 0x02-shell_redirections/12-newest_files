@@ -1,1 +1,2 @@
 #!/bin/bash
+find -type d | ls -t | tail -n 10
