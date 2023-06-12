@@ -1,2 +1,2 @@
 #!/bin/bash
-cat ls_cwb_content
+ls_cwb_content
