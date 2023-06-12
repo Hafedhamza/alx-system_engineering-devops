@@ -1,2 +1,2 @@
 #!/bin/bash
-find -type d | ls -t | tail -n 10
+find -type d | ls -t | head -n 10
